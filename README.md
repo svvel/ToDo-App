@@ -3,11 +3,11 @@
 Todo Web Application for a client. Where the client is able to store its daily Task. 
 
 <h4 align="left">
-  Frontend Deployed on Netlify &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://what2dobro.netlify.app/
+  Frontend Deployed on Netlify &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://todo-manage-task.netlify.app/
 </h4>
 
 <h4 align="left">
-  Backend Deployed on Vercel &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://what-to-do-bro.vercel.app
+  Backend Deployed on Render.com &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://todo-app-k9gq.onrender.com/
 </h4>
 
 ## Features
