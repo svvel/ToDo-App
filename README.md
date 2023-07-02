@@ -22,7 +22,7 @@ Todo Web Application for a client. Where the client is able to store its daily T
 Clone the project
 
 ```bash
-  git clone add git link
+  git clone https://github.com/svvel/ToDo-App.git
 ```
 
 Go to the project directory
@@ -49,7 +49,7 @@ Start the server
 Clone the project
 
 ```bash
-  git clone add git link
+  git clone https://github.com/svvel/ToDo-App.git
 ```
 
 Go to the project directory
