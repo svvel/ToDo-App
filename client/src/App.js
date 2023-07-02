@@ -38,7 +38,7 @@ function App() {
     <div className="app">
 
         <div className='container'>
-            <h1> To_do app</h1>
+            <h1> To_do List</h1>
             <div className="top">
 
                 <input type="text" className="text-input" placeholder='Add To Do'
