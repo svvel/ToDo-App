@@ -41,7 +41,7 @@ const updatetodo =  (_id, text, settodo, settext,setisupdate)=>{
 
 const deleteTodo =(_id,settodo)=>{
         axios
-         .post(Base_url+'/delete',{_id})
+         .post(Base_url+'/delete',{_id:_id})
          .then((data)=>{
             console.log(data)
             getallTodo(settodo)
