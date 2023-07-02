@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const Base_url = 'https://todo-app-k9gq.onrender.com'
+const Base_url = 'http://localhost:5000'
 
 const getallTodo =  (setTodo)=>{
     axios.get(Base_url)
@@ -40,8 +40,9 @@ const updatetodo =  (_id, text, settodo, settext,setisupdate)=>{
 
 
 const deleteTodo =(_id,settodo)=>{
+        console.log(_id)
         axios
-         .post(Base_url+'/delete',{_id:_id})
+         .post(Base_url+'/delete',{_id})
          .then((data)=>{
             console.log(data)
             getallTodo(settodo)

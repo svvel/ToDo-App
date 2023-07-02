@@ -27,8 +27,9 @@ module.exports.updateTodo = async (req,res)=>{
 
 module.exports.deleteTodo = async (req,res)=>{
     const {_id}= req.body
+    console.log(_id)
     TodoModel
-        .findOneAndDelete(_id)
+        .findByIdAndDelete(_id)
         .then(()=>{
             res.send('deleted successfully..')
         })
