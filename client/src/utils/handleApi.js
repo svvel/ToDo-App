@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const Base_url = 'http://localhost:5000'
+const Base_url = 'https://todo-app-k9gq.onrender.com'
 
 const getallTodo =  (setTodo)=>{
     axios.get(Base_url)
