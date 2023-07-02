@@ -1,8 +1,14 @@
-
 # ToDo App
 
 Todo Web Application for a client. Where the client is able to store its daily Task. 
 
+<h4 align="left">
+  Frontend Deployed on Netlify &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://what2dobro.netlify.app/
+</h4>
+
+<h4 align="left">
+  Backend Deployed on Vercel &#160; <img src="https://media.giphy.com/media/FbUuPsOW3oOCdAHexF/giphy.gif" width="50"> &#160; https://what-to-do-bro.vercel.app
+</h4>
 
 ## Features
 
@@ -61,4 +67,26 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run dev
+  npm start
+```
+
+
+## Technologies used
+
+Frontend / Clientside
+  
+ -  `React.js` 
+
+ Backend / Server side
+ 
+   -  `Node.js` 
+   -  `Express.js` 
+
+Database
+  -  `MongoDB`
+  -  `Mongoose`
+  
+Version Control System
+
+  -  `git`
+  -  `github`
